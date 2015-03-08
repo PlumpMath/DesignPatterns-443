@@ -37,7 +37,7 @@ class PersonBuilder:
         return Person(self)
 
 
-person = PersonBuilder('thomas', 'peikert').add_age(25).add_telephone("046149379891").build()
+person = PersonBuilder('t', 'pei').add_age(25).add_telephone("123456").build()
 print(person.first_name)
 print(person.last_name)
 print(person.telephone)
