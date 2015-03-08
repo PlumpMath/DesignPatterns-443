@@ -1,6 +1,4 @@
-package creational.factory;
-
-import java.util.Random;
+package creational.factory.factoryClass;
 
 /**
  * Created by thomas on 05/03/15.
