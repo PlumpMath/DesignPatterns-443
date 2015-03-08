@@ -1,4 +1,4 @@
-package behavioural.builtInObserver;
+package behavioural.observer.builtInObserver;
 
 /**
  * Created by thomas on 07/03/15.

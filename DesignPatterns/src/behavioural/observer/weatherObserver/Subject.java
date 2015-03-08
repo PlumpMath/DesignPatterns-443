@@ -1,4 +1,4 @@
-package behavioural.observer;
+package behavioural.observer.weatherObserver;
 
 /**
  * Created by thomas on 07/03/15.

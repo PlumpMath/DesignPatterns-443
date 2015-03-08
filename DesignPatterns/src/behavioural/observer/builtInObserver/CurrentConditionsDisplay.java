@@ -1,4 +1,4 @@
-package behavioural.builtInObserver;
+package behavioural.observer.builtInObserver;
 
 import java.util.Observable;
 import java.util.Observer;

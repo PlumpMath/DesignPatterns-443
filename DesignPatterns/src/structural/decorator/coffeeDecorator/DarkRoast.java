@@ -1,4 +1,4 @@
-package structural.decorator;
+package structural.decorator.coffeeDecorator;
 
 /**
  * Created by thomas on 08/03/15.
