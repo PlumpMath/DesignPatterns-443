@@ -1,4 +1,4 @@
-package creational.factory.factoryMethod;
+package creational.factoryMethod;
 
 /**
  * Created by thomas on 08/03/15.

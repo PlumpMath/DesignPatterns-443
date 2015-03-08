@@ -1,4 +1,4 @@
-package creational.factory.factoryMethod;
+package creational.factoryMethod;
 
 import java.util.ArrayList;
 

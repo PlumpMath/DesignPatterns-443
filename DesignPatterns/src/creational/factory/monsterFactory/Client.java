@@ -1,4 +1,4 @@
-package creational.factory.factoryClass;
+package creational.factory.monsterFactory;
 
 /**
  * Created by thomas on 05/03/15.
