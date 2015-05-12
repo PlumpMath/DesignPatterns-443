@@ -1,5 +1,6 @@
 __author__ = 'TPei'
-
+# note that due to Pythons ability to use keyword arguments, 
+# the builder pattern isn't really that useful anymore :)
 
 class Person:
     def __init__(self, builder):
